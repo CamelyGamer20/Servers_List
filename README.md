@@ -1,7 +1,5 @@
 **List_to_Servers**
 
-
-<ServersList {
     "United States":
     "Mexico":
     "Spain":
@@ -20,4 +18,3 @@
     "Suriname":
     "French Guiana":
     "Suriname":
-}>
